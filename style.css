@@ -1,0 +1,48 @@
+.profile {max-width: 150px; display: inline-block; vertical-align: left
+
+    
+}
+.jumbotron{
+    background-image: url(images/circuit/circuit.png); background-repeat: repeat;
+}
+.form-group{
+    width: 80%; align-content: center; padding-left: 20%;
+}
+.contact{
+    background-image: url(images/circuit/circuit.png);background-repeat: repeat;
+}
+.mono{
+    max-height: 90px; max-width: 125px;
+}
+.name{
+    font-weight: bold; font-size: 30px; background-color: #ffffff; padding-top: 25px;  padding-top: 20px; padding-bottom: 20px; padding-right: 25px; padding-left: 25px;
+}
+.background {background-color: default;
+}
+.border-bottom{ border-bottom: darkblue 4px solid;
+
+}
+
+#name {
+    background-color: #4aaaa5;  color: #ffffff; font-size: 50px; padding: 10px;
+}
+.navbar { color: #666666; background-color: #ffffff; border-bottom: darkblue 4px solid;
+}
+
+
+footer {
+     border-top:darkblue 4px solid; padding: 5px; text-align: center; width:100%; position: fixed;
+    left: 0; bottom: 0; color: #ffffff
+}
+.city{
+    display: inline-block; width: 75%; vertical-align: middle; border: grey solid 2px; border-radius: 10px; padding:5px;
+}
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+.portImg{
+     max-width: 350px; border: grey solid 2px; border-radius: 10px; padding: 5px;
+}
+figure figcaption{
+    font-size: 24px; vertical-align: middle; 
+}
