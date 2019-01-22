@@ -1,4 +1,12 @@
-.profile {max-width: 150px; display: inline-block; vertical-align: left
+.profile {max-width: 150px; display: inline-block;  border:darkblue solid 4px; margin-right: 10px;
+}
+.profiletxt{
+    display:inline-block; vertical-align: middle; align-content: right;
+}
+.image-txt-container {
+    display:flex;
+    align-items:center;
+    flex-direction: row;
 }
 h2{
     border-bottom: darkblue solid 4px
